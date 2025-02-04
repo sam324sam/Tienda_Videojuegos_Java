@@ -1,3 +1,5 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
 # Gestión de Stock de Videojuegos
 
 ## Descripción del Proyecto
