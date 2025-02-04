@@ -64,7 +64,9 @@ La aplicación permite realizar las siguientes tareas:
 
 1. Clona este repositorio.
 2. Configura la base de datos MySQL con el import sql.
-3. Despliega la aplicación en el servidor Tomcat.
+3. **Descargar la librería MySQL Connector 9.0.0**:  
+   Puedes descargarla desde el siguiente enlace: [MySQL Connector 9.0.0](https://downloads.mysql.com/archives/c-j/)
+4. Despliega la aplicación en el servidor Tomcat.
 
 ## Licencia
 
