@@ -66,6 +66,14 @@ La aplicación permite realizar las siguientes tareas:
 2. Configura la base de datos MySQL con el import sql.
 3. Despliega la aplicación en el servidor Tomcat.
 
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Aclaración
+
+Las imágenes utilizadas en este proyecto no me pertenecen y son propiedad de sus respectivos autores.
+
 ## Contribuciones
 
 Cualquier contribución o mejora al proyecto es bienvenida. Por favor, abre un issue o envía un pull request.
