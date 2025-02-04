@@ -1,4 +1,4 @@
-![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+![Estado](https://img.shields.io/badge/Estado-En%20proceso-yellow?style=plastic)
 
 # Gestión de Stock de Videojuegos
 
