@@ -90,6 +90,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 Las imágenes utilizadas en este proyecto no me pertenecen y son propiedad de sus respectivos autores.
 
-## Contribuciones
+## Contribuir al Proyecto
+Para conocer cómo contribuir, revisa nuestras [pautas de contribución](https://github.com/sam324sam/sam324sam/blob/main/CONTRIBUTING.md).
 
-Cualquier contribución o mejora al proyecto es bienvenida. Por favor, abre un issue o envía un pull request.
