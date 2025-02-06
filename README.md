@@ -7,7 +7,7 @@
 Este proyecto es una aplicación web que gestiona el stock de una tienda de videojuegos. La aplicación permite a los usuarios consultar información sobre consolas, su catálogo de juegos y gestionar el stock de productos.
 
 <div align="center">
-  <img src="imgGithub/ServletInicio.PNG" alt="Inicio" width="500">
+  <img src="ImgGithub/ServletInicio.PNG" alt="Inicio" width="500">
 </div>
 
 ## Tecnologías Utilizadas
@@ -46,13 +46,13 @@ La aplicación permite realizar las siguientes tareas:
    - Cantidad de unidades disponibles
   
 <div align="center">
-  <img src="imgGithub/ServletInformacion.PNG" alt="Informacion panel" width="500">
+  <img src="ImgGithub/ServletInformacion.PNG" alt="Informacion panel" width="500">
 </div>
 
 4. **Comprar productos**: Opción para comprar un producto, reduciendo la cantidad disponible en uno, siempre que haya al menos una unidad disponible.
 
 <div align="center">
-  <img src="imgGithub/ServletCarrito.PNG" alt="Carrito panel" width="500">
+  <img src="ImgGithub/ServletCarrito.PNG" alt="Carrito panel" width="500">
 </div>
 
 6. **Gestión del Stock (solo para administradores)**:
@@ -61,7 +61,7 @@ La aplicación permite realizar las siguientes tareas:
    - Eliminar productos.
   
 <div align="center">
-  <img src="imgGithub/ServletPanelAdmin.PNG" alt="Admin panel" width="500">
+  <img src="ImgGithub/ServletPanelAdmin.PNG" alt="Admin panel" width="500">
 </div>
 
 ## Requisitos
@@ -70,7 +70,7 @@ La aplicación permite realizar las siguientes tareas:
 - Conexión a una base de datos MySQL para almacenar la información de las consolas, juegos y productos. importando la base de datos de Import DB/ControlTienda.sql. Esperando el siguiente resultado
 
 <div align="center">
-  <img src="imgGithub/SevletDB.PNG" alt="DB" width="500">
+  <img src="ImgGithub/SevletDB.PNG" alt="DB" width="500">
 </div>
 
 ## Instalación
