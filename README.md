@@ -6,6 +6,10 @@
 
 Este proyecto es una aplicación web que gestiona el stock de una tienda de videojuegos. La aplicación permite a los usuarios consultar información sobre consolas, su catálogo de juegos y gestionar el stock de productos.
 
+<div align="center">
+  <img src="imgGithub/ServletInicio.PNG" alt="Inicio" width="500">
+</div>
+
 ## Tecnologías Utilizadas
 
 - **HTML**: Para la estructura de la aplicación web.
@@ -19,14 +23,7 @@ Este proyecto es una aplicación web que gestiona el stock de una tienda de vide
 
 La aplicación permite realizar las siguientes tareas:
 
-1. **Consultar información sobre consolas**:
-   - Potencia de la CPU
-   - Potencia de la GPU
-   - Compañía
-   - Precio
-   - Unidades disponibles
-
-2. **Consultar el catálogo de juegos de cada consola**:
+1. **Consultar el catálogo de juegos de cada consola**:
    - Nombre del juego
    - Compañía desarrolladora
    - Género del juego
@@ -34,7 +31,7 @@ La aplicación permite realizar las siguientes tareas:
    - Precio
    - Unidades disponibles
 
-3. **Consultar el catálogo total de juegos de la tienda**:
+2. **Consultar el catálogo total de juegos de la tienda**:
    - Nombre del juego
    - Plataforma (nombre de la consola)
    - Compañía desarrolladora
@@ -43,22 +40,38 @@ La aplicación permite realizar las siguientes tareas:
    - Precio
    - Unidades disponibles
 
-4. **Consultar todos los productos**:
-   - Nombre del producto
+3. **Consultar todos los productos**:
+   - Nombre del producto e informacion general
    - Precio
    - Cantidad de unidades disponibles
+  
+<div align="center">
+  <img src="imgGithub/ServletInformacion.PNG" alt="Informacion panel" width="500">
+</div>
 
-5. **Comprar productos**: Opción para comprar un producto, reduciendo la cantidad disponible en uno, siempre que haya al menos una unidad disponible.
+4. **Comprar productos**: Opción para comprar un producto, reduciendo la cantidad disponible en uno, siempre que haya al menos una unidad disponible.
+
+<div align="center">
+  <img src="imgGithub/ServletCarrito.PNG" alt="Carrito panel" width="500">
+</div>
 
 6. **Gestión del Stock (solo para administradores)**:
    - Modificar la información de cualquier producto.
    - Insertar nuevos productos.
    - Eliminar productos.
+  
+<div align="center">
+  <img src="imgGithub/ServletPanelAdmin.PNG" alt="Admin panel" width="500">
+</div>
 
 ## Requisitos
 
 - Tener un servidor Tomcat configurado para desplegar la aplicación.
-- Conexión a una base de datos MySQL para almacenar la información de las consolas, juegos y productos.
+- Conexión a una base de datos MySQL para almacenar la información de las consolas, juegos y productos. importando la base de datos de Import DB/ControlTienda.sql. Esperando el siguiente resultado
+
+<div align="center">
+  <img src="imgGithub/SevletDB.PNG" alt="DB" width="500">
+</div>
 
 ## Instalación
 
@@ -66,7 +79,8 @@ La aplicación permite realizar las siguientes tareas:
 2. Configura la base de datos MySQL con el import sql.
 3. **Descargar la librería MySQL Connector 9.0.0**:  
    Puedes descargarla desde el siguiente enlace: [MySQL Connector 9.0.0](https://downloads.mysql.com/archives/c-j/)
-4. Despliega la aplicación en el servidor Tomcat.
+4. Descarge el tomcat del siguiente enlace [Tomcat 11.0.2](https://tomcat.apache.org/download-11.cgi)
+5. Despliega la aplicación en el servidor Tomcat.
 
 ## Licencia
 
